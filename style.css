@@ -16,7 +16,7 @@ body {
 .container {
     width: 1200px;
     margin: 0 auto;
-    background-color:#e91e63;
+    background-color: #e0e0e0;
     padding: 3rem;
     transform: scale(0);
     transition:  all .3s ease-in-out;
@@ -52,4 +52,8 @@ span#msg {
 
 p {
     font-size: 25px;
+}
+
+.zero {
+    border: 2px solid red;
 }
